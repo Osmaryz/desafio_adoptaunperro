@@ -1,0 +1,30 @@
+.FormatoTextoNavbar {
+  font-size: 2.5em;
+}
+
+.FormatoTarjeta {
+  width: 321.2px;
+}
+
+.foto {
+  height: 15em;
+  width: 100%;
+}
+
+.ContainerGaleria {
+  height: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: first baseline;
+  gap: 0.7em;
+
+
+}
+
+.FormatoPieDePagina {
+  padding-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+
+}
